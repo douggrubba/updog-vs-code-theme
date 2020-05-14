@@ -2,7 +2,7 @@
 	"name": "updog",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#282E2E",
+		"editor.background": "#171B1C",
     "editor.foreground": "#E4F2F7",
     "editor.selectionBackground": "#E63491",
     "editor.inactiveSelectionBackground": "#661740",
@@ -27,7 +27,45 @@
 
     "editorLineNumber.foreground": "#4B5757",
 
-    "statusBar.background": "#186BA3"
+    "statusBar.noFolderForeground": "#FFD9FE",
+    "statusBar.noFolderBackground": "#502EF0",
+    "statusBar.noFolderBorder": "#5630FF",
+
+    "progressBar.background": "#1ADB68",
+
+    "quickInput.foreground": "#FFD9FE",
+    "quickInput.background": "#4B5757",
+
+    "titleBar.activeBackground": "#502EF0",
+
+    "menu.background": "#1ADB68",
+
+    "notifications.background": "#1ADB68",
+    "notifications.foreground": "#094722",
+    "notificationsInfoIcon.foreground": "#094722",
+    "notificationsErrorIcon.foreground": "#094722",
+    "notificationsWarningIcon.foreground": "#094722",
+
+    "terminal.background": "#222729",
+    "terminal.foreground": "#B4D1D9",
+    "terminal.ansiBlack": "#000309",
+    "terminal.ansiBrightBlack": "#25262B",
+    "terminal.ansiRed": "#D9311E",
+    "terminal.ansiBrightRed": "#ED2009",
+    "terminal.ansiGreen": "#1ADB68",
+    "terminal.ansiBrightGreen": "#05F868",
+    "terminal.ansiCyan": "#0BD6BB",
+    "terminal.ansiBrightCyan": "#07F4D5",
+    "terminal.ansiMagenta": "#CD1580",
+    "terminal.ansiBrightMagenta": "#F70A94",
+    "terminal.ansiYellow": "#EADC0B",
+    "terminal.ansiBrightYellow": "#FDED02",
+    "terminal.ansiBlue": "#502EF0",
+    "terminal.ansiBrightBlue": "#360EF5",
+    "terminal.ansiWhite": "#CFE0E7",
+    "terminal.ansiBrightWhite": "#EAF1F4",
+    "terminalCursor.background": "#F70A94",
+    "terminalCursor.foreground": "#F70A94"
   },
 	"tokenColors": [
 		{
