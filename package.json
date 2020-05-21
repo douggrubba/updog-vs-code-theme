@@ -2,11 +2,11 @@
     "name": "updog",
     "displayName": "updog",
     "description": "what is up 🐕?",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "douggrubba",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/douggrubba/updog-vs-code-theme.git"
+        "type": "git",
+        "url": "https://github.com/douggrubba/updog-vs-code-theme.git"
     },
     "engines": {
         "vscode": "^1.45.0"
