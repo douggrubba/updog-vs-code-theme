@@ -27,8 +27,8 @@ neon accents.  It's totally tubular.
 
 ## CHANGELOG
 
-![CHANGELOG](https://raw.githubusercontent.com/douggrubba/updog-vs-code-theme/master/CHANGELOG.md)
+[CHANGELOG](https://raw.githubusercontent.com/douggrubba/updog-vs-code-theme/master/CHANGELOG.md)
 
 ## LICENSE
 
-![MIT License](https://raw.githubusercontent.com/douggrubba/updog-vs-code-theme/master/LICENSE)
+[MIT License](https://raw.githubusercontent.com/douggrubba/updog-vs-code-theme/master/LICENSE)
