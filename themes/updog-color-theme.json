@@ -2,8 +2,9 @@
 	"name": "updog",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#171B1C",
+		"editor.background": "#1F2526",
     "editor.foreground": "#E4F2F7",
+    "editor.selectionForeground": "#ffffff",
     "editor.selectionBackground": "#E63491",
     "editor.inactiveSelectionBackground": "#661740",
 
@@ -27,9 +28,13 @@
 
     "editorLineNumber.foreground": "#4B5757",
 
+    "statusBar.background": "#2A3133",
+    "statusBar.foreground": "#E082BF",
     "statusBar.noFolderBackground": "#2A3133",
     "statusBar.noFolderBorder": "#2A3133",
     "statusBar.noFolderForeground": "#E082BF",
+    "statusBar.debuggingBackground": "#2A3133",
+    "statusBarItem.activeBackground": "#2A3133",
 
     "tab.activeBackground": "#502EF0",
     "tab.unfocusedActiveBackground": "#502EF0",
@@ -59,15 +64,14 @@
     "checkbox.foreground": "#8DE3DA",
     "checkbox.background": "#737575",
 
-    "notifications.background": "#D5CCED",
-    "notifications.foreground": "#502EF0",
-
-    "notificationsInfoIcon.foreground": "#2E1A87",
-    "notificationsErrorIcon.foreground": "#2E1A87",
-    "notificationsWarningIcon.foreground": "#2E1A87",
+    "notificationsInfoIcon.foreground": "#D5CCED",
+    "notificationsErrorIcon.foreground": "#D5CCED",
+    "notificationsWarningIcon.foreground": "#D5CCED",
 
     "notificationCenterHeader.foreground": "#D5CCED",
     "notificationCenterHeader.background": "#502EF0",
+    "notifications.foreground": "#D5CCED",
+    "notifications.background": "#1D2121",
 
     "input.background": "#1D2121",
     "input.foreground": "#fff",
@@ -209,7 +213,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FB775F"
+				"foreground": "#D84FE0"
 			}
 		},
 		{
@@ -219,7 +223,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#FB775F"
+				"foreground": "#D84FE0"
 			}
 		},
 		{
@@ -251,7 +255,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#7861FF"
+				"foreground": "#AA94FF"
 			}
 		},
 		{
