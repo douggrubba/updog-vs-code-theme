@@ -2,6 +2,14 @@
 
 All notable changes to the "updog" extension will be documented in this file.
 
+## 1.2.0
+
+Light Theme
+
+## 1.1.0
+
+Issues #1, #3, #4.  Minor improvements and tweaks.
+
 ## 1.0.2
 
 icon update
