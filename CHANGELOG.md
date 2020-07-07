@@ -4,11 +4,11 @@ All notable changes to the "updog" extension will be documented in this file.
 
 ## 1.2.0
 
-Light Theme
+Light Theme, Issue #2
 
 ## 1.1.0
 
-Issues #1, #3, #4.  Minor improvements and tweaks.
+Issues #1, #3, #4. Minor improvements and tweaks.
 
 ## 1.0.2
 
