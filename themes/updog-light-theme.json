@@ -2,20 +2,20 @@
   "name": "updog light",
   "type": "light",
   "colors": {
-    "editor.background": "#DAE8ED",
+    "editor.background": "#EDEDF6",
     "editor.foreground": "#1F2526",
     "editor.selectionForeground": "#ffffff",
     "editor.selectionBackground": "#E686BD",
     "editor.inactiveSelectionBackground": "#B86A96",
 
     "sideBar.foreground": "#333B3B",
-    "sideBar.background": "#ABC7C7",
+    "sideBar.background": "#DAD0F5",
     "sideBar.dropBackground": "#95ADAD",
 
     "sideBarTitle.foreground": "#bbbbbb",
 
-    "sideBarSectionHeader.background": "#3E6360",
-    "sideBarSectionHeader.foreground": "#8DE3DA",
+    "sideBarSectionHeader.background": "#6837FA",
+    "sideBarSectionHeader.foreground": "#DAD0F5",
 
     "activityBar.background": "#067062",
     "activityBar.dropBackground": "#089683",
@@ -88,7 +88,7 @@
     "inputValidation.warningForeground": "#882412",
     "inputValidation.warningBorder": "#882412",
 
-    "terminal.background": "#BAC7D6",
+    "terminal.background": "#D9D4F7",
     "terminal.foreground": "#4D5A5E",
     "terminal.ansiBlack": "#000309",
     "terminal.ansiBrightBlack": "#333344",
@@ -104,8 +104,8 @@
     "terminal.ansiBrightYellow": "#D1C40A",
     "terminal.ansiBlue": "#8075F5",
     "terminal.ansiBrightBlue": "#6C63CF",
-    "terminal.ansiWhite": "#BAC9CF",
-    "terminal.ansiBrightWhite": "#BAC9CF",
+    "terminal.ansiWhite": "#C24033",
+    "terminal.ansiBrightWhite": "#DB3D1E",
     "terminalCursor.background": "#F70A94",
     "terminalCursor.foreground": "#F70A94"
   },
@@ -143,7 +143,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#089683",
+        "foreground": "#3B5CD1",
         "fontStyle": "bold"
       }
     },
@@ -175,7 +175,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#66AFBA"
+        "foreground": "#1578D4"
       }
     },
     {
@@ -188,7 +188,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#20FADD",
+        "foreground": "#12C6E3",
         "fontStyle": "italic bold"
       }
     },
