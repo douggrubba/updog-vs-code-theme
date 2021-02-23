@@ -2,6 +2,10 @@
 
 All notable changes to the "updog" extension will be documented in this file.
 
+## 1.3.0
+
+Lime Theme
+
 ## 1.2.0
 
 Light Theme, Issue #2

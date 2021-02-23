@@ -26,7 +26,12 @@
                 "label": "updog light",
                 "uiTheme": "vs",
                 "path": "./themes/updog-light-theme.json"
-            }
+            },
+            {
+                "label": "updog - lime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/updog-lime-theme.json"
+            },
         ]
     }
 }
