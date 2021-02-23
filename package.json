@@ -31,7 +31,7 @@
                 "label": "updog - lime",
                 "uiTheme": "vs-dark",
                 "path": "./themes/updog-lime-theme.json"
-            },
+            }
         ]
     }
 }
